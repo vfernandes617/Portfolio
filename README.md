@@ -27,12 +27,13 @@ I learned C++ is a powerful and versatile, high performance programming language
 Here is a few things I have learned is this course.
 1. Basic Syntax and structure
     Understanding memory
-2.  [Classes and objects](https://github.com/vfernandes617/C---projects/tree/main/OOP%20Submission%20Assignment)<br>
-    [Inheritance](https://github.com/vfernandes617/C---projects/tree/main/CLASS%20CHALLENGE%20SUBMISSION%20ASSIGNMENT)<br>
-    Polymorphism
-    Encapsulation and Abstraction
-3. Code Efficieny
-    Compile -Time Optimzations
+2.  [Classes](https://github.com/vfernandes617/C---projects/tree/main/OOP%20Submission%20Assignment)
+    [and objects](https://github.com/vfernandes617/C---projects/tree/main/CLASS%20CHALLENGE%20SUBMISSION%20ASSIGNMENT)<br>
+3. Inheritance
+4. Polymorphism
+5.Encapsulation and Abstraction
+6.Code Efficieny
+7.Compile -Time Optimzations
 ##Examples for Unreal engine
--[Basic first person shooter](https://github.com/vfernandes617/The-Tech-Academy-C---and-Unreal-Engine-Projects/tree/main/MyProject)
+-[Basic first person shooter](https://github.com/vfernandes617/The-Tech-Academy-C---and-Unreal-Engine-Projects/tree/main/MyProject) <br>
 -[Free Falling Game](https://github.com/vfernandes617/The-Tech-Academy-C---and-Unreal-Engine-Projects/tree/main/MyProject)
