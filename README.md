@@ -1,6 +1,6 @@
 # Portfolio
 <strong><h3>C# Projects</h3></strong>
-I have just completed the Tech Academy C# and Unity course
+I have completed the Tech Academy C# and Unity course
 Here are some examples of my work.<br>
 ## Examples for Unity and C#
 - [TwentyOne Game](https://github.com/vfernandes617/C-Sharp-Projects/tree/main/TwentyOne)
@@ -20,5 +20,19 @@ Other examples include; <br>
 8. [Enums Parsing](https://github.com/vfernandes617/C-Sharp-Projects/tree/main/PARSING%20ENUMS%20SUBMISSION%20ASSIGNMENT) <br>
 9. [Lambda expressions](https://github.com/vfernandes617/C-Sharp-Projects/tree/main/LAMBDA%20SUBMISSION%20ASSIGNMENT)
 
+I also completed the C++ and Unreal Engine Course 
+Here are some examples of my work.
 ## C++ Basics learned in this course
-
+I learned C++ is a powerful and versatile, high performance programming language widely used in software development.
+Here is a few things I have learned is this course.
+1. Basic Syntax and structure
+    Understanding memory
+2.  [Classes and objects](https://github.com/vfernandes617/C---projects/tree/main/OOP%20Submission%20Assignment)<br>
+    [Inheritance](https://github.com/vfernandes617/C---projects/tree/main/CLASS%20CHALLENGE%20SUBMISSION%20ASSIGNMENT)<br>
+    Polymorphism
+    Encapsulation and Abstraction
+3. Code Efficieny
+    Compile -Time Optimzations
+##Examples for Unreal engine
+-[Basic first person shooter](https://github.com/vfernandes617/The-Tech-Academy-C---and-Unreal-Engine-Projects/tree/main/MyProject)
+-[Free Falling Game](https://github.com/vfernandes617/The-Tech-Academy-C---and-Unreal-Engine-Projects/tree/main/MyProject)
