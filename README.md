@@ -19,3 +19,6 @@ Other examples include; <br>
 7. [Classes](https://github.com/vfernandes617/C-Sharp-Projects/tree/main/CLASS%20SUBMISSION%20ASSIGNMENT) <br> 
 8. [Enums Parsing](https://github.com/vfernandes617/C-Sharp-Projects/tree/main/PARSING%20ENUMS%20SUBMISSION%20ASSIGNMENT) <br>
 9. [Lambda expressions](https://github.com/vfernandes617/C-Sharp-Projects/tree/main/LAMBDA%20SUBMISSION%20ASSIGNMENT)
+
+## C++ Basics learned in this course
+
